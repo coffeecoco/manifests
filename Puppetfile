@@ -1,4 +1,3 @@
 mod 'apache',
-  :git => 'https://github.com/puppetlabs/puppetlabs-apache'
-
+  :git => 'github.com/coffeecocoo/puppetlabs-apache.git'
 mod 'puppet-r10k', '6.2.0'
